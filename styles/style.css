@@ -1,0 +1,40 @@
+html { font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif; /* esto sirve para añadir
+    comentarios*/    
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p,  {
+    font-size: 16px;
+    line-height: 0.5 ;
+    letter-spacing: 0px;
+}
+
+html{
+    background-color: black;
+}
+
+body {
+    width: 600px;
+    margin: auto;
+    background-color: ghostwhite;
+    padding: 0 20px 20px 20px;
+    border: 1px solid blue;
+}
+
+h1{
+    margin: 0;
+    padding: 20px 0;
+    color: black;
+    text-shadow: 1px 1px 1px darkblue;
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+ }
